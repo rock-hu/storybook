@@ -1,5 +1,5 @@
 import { withBackgrounds } from "@storybook/addon-ondevice-backgrounds";
-import { Preview } from "@storybook/react";
+import { Preview } from "@storybook/react-vite";
 
 const preview: Preview = {
   parameters: {
